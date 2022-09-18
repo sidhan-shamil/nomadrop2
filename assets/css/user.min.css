@@ -1,0 +1,32 @@
+/*card*/
+.card{
+    height: 31.5rem;
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
+  }
+
+.card-img{
+    border-radius: 15px;
+    box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
+}
+
+.bg-footer-black{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.icon-font{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.about-container{
+    height: auto;
+    padding: inherit;
+    border: 1px solid #111;
+    border-radius: 15px;
+    background: #1b1b1b;
+    box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
+}
+/*# sourceMappingURL=user.min.css.map */
+  
