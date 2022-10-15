@@ -861,7 +861,7 @@ a {
     margin-bottom: 30px;
     background-color: #333;
     border-radius: 15px;
-    height: 29rem;
+    height: fit-content;
 }
 
 .services .item:before {
